@@ -1,0 +1,25 @@
+<resources>
+    <string name = "max_priority">Max priority</string>
+    <string name = "high_priority">High priority</string>
+    <string name = "default_priority">Default_priority</string>
+    <string name = "low_priority">Low_priority</string>
+    <string name = "min_priority">Min_priority</string>
+    <string name = "random_priority">Random_priority</string>
+    <string name = "big_text">Big Text</string>
+    <string name = "title"> Android Notification</string>
+    <string name = "old">Old Notifications</string>
+    <string name = "big_picture">Big Picture</string>
+    <string name = "inbox_type">Inbox Type</string>
+        <string name = "summary_text">Android ATC has its main objective to spread learning of Android
+            development applications worldwide.
+            We intend to provide comprehensive
+            and integrated IT certificates and courses
+            for Android at different levels of trainees.
+            We deliver our courses through our partners
+            all over the world </string>
+
+    <string name="app_name">Notifications</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+</resources>
